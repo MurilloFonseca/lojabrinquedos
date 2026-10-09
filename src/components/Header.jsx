@@ -13,6 +13,10 @@ const Header = () => {
         </div>
       </nav>
 
+      <header className='bg-[#ddfdfe] p-5 flex flex-col justify-center items-center'>
+        <h1 className=' text-[#c8b6ff] font-extrabold text-4xl'>Seja Bem-vindo(a)</h1>
+        <h2 className=' text-[#c8b6ff] font-extrabold text-4xl'> a <span className=' text-[#ffb3c6] font-bold italic'>Kids Toys</span></h2>
+      </header>
      
     </>
   )
