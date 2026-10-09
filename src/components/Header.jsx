@@ -1,5 +1,10 @@
-const Header = () => {
-  return <></>;
-};
+import React from 'react'
 
-export default Header;
+const Header = () => {
+  return (
+    <>
+    </>
+  )
+}
+
+export default Header
