@@ -1,5 +1,10 @@
+import Sobre from './components/Sobre'
 function App() {
-  return <></>;
+  return(
+    <>
+      <Sobre/>
+    </>
+  ) ;
 }
 
 export default App;
